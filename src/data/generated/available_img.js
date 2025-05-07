@@ -1,0 +1,1 @@
+define({ availableImg: ["8628914","Abs-2012-01914","Beck2016Visual","Callison_Burch_2022","Farrokhi-MalekiZhao-2024","Li_Riedl_2010","Moser01022015","Riedl2010","Riedl2011","Riedl_Bulitko_2021","Rowe_Mott_Lester_2021"]});
